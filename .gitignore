@@ -1,1 +1,4 @@
 activites_strava.ods
+activites_strava.csv
+*.ipynb
+.venv
