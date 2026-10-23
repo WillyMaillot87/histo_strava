@@ -62,5 +62,5 @@ plt.legend()
 plt.xticks(rotation=45)
 plt.tight_layout()
 
-# 4. Affichage du graphique
+# 4. Affichage du graphique :
 plt.show()
